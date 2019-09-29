@@ -7,5 +7,6 @@ that clearly describes:
 
 * how you did the tests,
 * sample outputs from running the tests
-* the table and
+* the table 
+nb
 * a discussion of the results.
